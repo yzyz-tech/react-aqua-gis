@@ -22,8 +22,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Environment files
+.env 
+
 # Ignore test file
 /src/components/Tutorial
 
 # Ignore data file
 /public/fishing_data
+/public/data
